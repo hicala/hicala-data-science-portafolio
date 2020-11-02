@@ -22,7 +22,7 @@ Thank you for taking the time to visit my Portfolio!
 - ### Data mining (Web scraping): 
 
 	- __Python__
- * [Project in context of economic development and income growth and GDP](https://github.com/hicala/gdp_python-data-mining/blob/main/README.md)
+		- [Project in context of economic development and income growth and GDP](https://github.com/hicala/gdp_python-data-mining/blob/main/README.md): Using Python to carry out the Data mining on GDP information around the world separated by 3 years interval (2018, 2019, 2020).	
 		
 
 		_Tools: Jupiter Notebook, Python, Pandas_ 
