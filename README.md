@@ -19,10 +19,10 @@ Thank you for taking the time to visit my Portfolio!
 
 ## Contents
 
-- ### Micro Projects: 
+- ### Data mining (Web scraping): 
 
 	- __Python__
-		
+		 * [Project in context of economic development and income growth and GDP](https://github.com/hicala/gdp_python-data-mining/blob/main/README.md)
 		
 
 		_Tools: Jupiter Notebook, Python, Pandas_ 
@@ -33,30 +33,47 @@ Thank you for taking the time to visit my Portfolio!
 
 		_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
 
+- ### Data Analytics:
 
-- ### Machine Learning
+		_Tools: Work In Progress_
+		
+- ### Data Visualization:
+
+
+		_Tools: Work In Progress_
+
+- ### Natural Language Programming and Processing
 
 	
 
-		_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_ 
+		_Tools: Work In Progress_
 
-- ### Natural Language Processing
-
-	
-
-		_Tools: NLTK, scikit_
-
-- ### Data Analysis and Visualisation
+- ### Math & Statistics
 	- __Python__
 		
 		
 		
 		
-		_Tools: Pandas, Folium, Seaborn and Matplotlib_
+		_Tools: Work In Progress_
+
+- ### Machine Learning:
+
+	
+
+		_Tools: Work In Progress_ 
+		
+- ### Integrated development environment (IDE):
+
+	
+
+		_Tools: Work In Progress_ 
+
+- ### Data cloud deployment:
 
 
+		_Tools: Work In Progress_ 
 
 
-I also immerse in several other kinds of technology. You can find a general portfolio [here](http://www.hilacalderon.com/portfolio)
+I also immerse in several other applied uses of technology. You can find a general portfolio [here](http://www.hilacalderon.com/portfolio)
 
 If you liked what you saw and want to see more please visit my [CV](http://www.hilacalderon.com/resume/). Feel free to just shoot an [Email]("mailto:calderon.hila@gmail.com"), if want to have a chat with me about the portfolio, work opportunities, or collaboration 
